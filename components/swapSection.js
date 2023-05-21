@@ -3,7 +3,7 @@ import Container from "./container";
 
 export default function SwapSection() {
   return (
-    <Container className='sm:p-0 lg:p-8 mx-auto xl:px-0 flex flex-wrap mb-20 lg:gap-10 lg:flex-nowrap '>
+    <Container className='sm:p-0 lg:p-8 xl:px-0 flex flex-wrap mb-20 lg:gap-10 lg:flex-nowrap '>
     <div class="flex flex-wrap items-start lg:w-2/3" id="model">
       <div>
         <div class="flex flex-col w-full mt-4">
