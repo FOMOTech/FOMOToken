@@ -19,7 +19,7 @@ export default function SwapSection() {
             </div>
             <div>
               <h4 class="text-xl font-medium text-gray-800 dark:text-gray-200">$FOMO has been audited by Cyberscope</h4>
-              <p class="mt-1 text-gray-500 dark:text-gray-400"></p>
+              <p class="mt-1 text-gray-500 dark:text-gray-400">Performance optimised</p>
             </div>
           </div>
           <div class="flex items-start mt-8 space-x-3">
@@ -30,7 +30,7 @@ export default function SwapSection() {
             </div>
             <div>
               <h4 class="text-xl font-medium text-gray-800 dark:text-gray-200">Liquidity will be locked for 500 days</h4>
-              <p class="mt-1 text-gray-500 dark:text-gray-400"></p>
+              <p class="mt-1 text-gray-500 dark:text-gray-400">FOMO is a long term project</p>
             </div>
           </div>
           <div class="flex items-start mt-8 space-x-3">
