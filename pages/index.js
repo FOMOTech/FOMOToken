@@ -39,11 +39,11 @@ export default function Home() {
 
       <Navbar />
       <Hero />
+      <SwapSection />
       <SectionTitle
         title=" FOMO Powers our Network">
         Daily FOMO provides solutions for token owners to engage their community and drive new investors, exclusively on the BNB Chain.
       </SectionTitle>
-      <SwapSection />
       <Benefits imgPos="left" data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
