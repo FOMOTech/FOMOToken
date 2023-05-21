@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import Container from "./container";
 
-export default function swapSection() {
-  const [playVideo, setPlayVideo] = useState(false);
+export default function SwapSection() {
   return (
     <Container className='p-0'>
 
