@@ -18,8 +18,8 @@ export default function SwapSection() {
               </svg>
             </div>
             <div>
-              <h4 class="text-xl font-medium text-gray-800 dark:text-gray-200">Scaleable buy bot</h4>
-              <p class="mt-1 text-gray-500 dark:text-gray-400">A free to use buy bot for tokens</p>
+              <h4 class="text-xl font-medium text-gray-800 dark:text-gray-200">$FOMO has been audited by Cyberscope</h4>
+              <p class="mt-1 text-gray-500 dark:text-gray-400">Liquidity will be locked for 500 days</p>
             </div>
           </div>
           <div class="flex items-start mt-8 space-x-3">
