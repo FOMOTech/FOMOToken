@@ -5,7 +5,7 @@ import Container from "./container";
 export default function SwapSection() {
   return (
     <Container className='p-0'>
-    <div class="flex items-center w-full lg:w-1/2" id="model">
+    <div class="flex flex-wrap items-center  lg:w-1/2" id="model">
       <div>
         <div class="flex flex-col w-full mt-4">
           <h3 class="max-w-2xl mt-3 text-3xl font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-4xl dark:text-white">Revenue Model</h3>
@@ -48,7 +48,7 @@ export default function SwapSection() {
         </div>
       </div>
     </div>
-    <div class="flex items-center w-full lg:w-1/2" id="model">
+    <div class="flex flex-wrap items-center lg:w-1/2" id="model">
         <iframe width="400" height="720" frameborder="0" allow="clipboard-read *; clipboard-write *; web-share *; accelerometer *; autoplay *; camera *; gyroscope *; payment *; geolocation *" src="https://flooz.xyz/embed/trade?swapDisabled=false&swapToTokenAddress=0x93b2186ADbc3f3ea85EA4c6AC0FB5017975A7c07&swapLockToToken=false&onRampDisabled=false&onRampAsDefault=false&onRampDefaultAmount=200&onRampTokenAddress=0x93b2186ADbc3f3ea85EA4c6AC0FB5017975A7c07&onRampLockToken=false&stakeDisabled=true&network=bsc&lightMode=true&primaryColor=%23052cc8&backgroundColor=transparent&roundedCorners=10&padding=20&refId=hLymmL" ></iframe>
     </div>
     
