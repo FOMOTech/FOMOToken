@@ -5,6 +5,7 @@ import SectionTitle from "../components/sectionTitle";
 import React from "react";
 import { benefitOne, benefitTwo } from "../components/data";
 import Video from "../components/video";
+import swapSection from "../components/swapSection";
 import Benefits from "../components/benefits";
 import Footer from "../components/footer";
 import Testimonials from "../components/testimonials";
