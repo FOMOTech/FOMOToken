@@ -5,7 +5,7 @@ import SectionTitle from "../components/sectionTitle";
 import React from "react";
 import { benefitOne, benefitTwo } from "../components/data";
 import Video from "../components/video";
-import swapSection from "../components/swapSection";
+import SwapSection from "../components/swapSection";
 import Benefits from "../components/benefits";
 import Footer from "../components/footer";
 import Testimonials from "../components/testimonials";
@@ -43,7 +43,7 @@ export default function Home() {
         title=" FOMO Powers our Network">
         Daily FOMO provides solutions for token owners to engage their community and drive new investors, exclusively on the BNB Chain.
       </SectionTitle>
-      <swapSection />
+      <SwapSection />
       <Benefits imgPos="left" data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
