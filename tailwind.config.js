@@ -9,7 +9,7 @@ module.exports = {
     extend: {
       colors: {
         trueGray: colors.neutral,
-        'FOMOBlue': '#052cc8',
+        FOMOBlue: '#052cc8',
       },
     },
     fontFamily: {
