@@ -1,5 +1,3 @@
-<div class="container p-8 mx-auto xl:px-0 flex flex-wrap mb-20 lg:gap-10 lg:flex-nowrap ">
-
 import React, { useState } from "react";
 import Container from "./container";
 
@@ -59,5 +57,3 @@ export default function SwapSection() {
     </Container>
   );
 }
-
-  </div>
