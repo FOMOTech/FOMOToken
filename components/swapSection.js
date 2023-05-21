@@ -41,7 +41,7 @@ export default function SwapSection() {
             </div>
             <div>
               <h4 class="text-xl font-medium text-gray-800 dark:text-gray-200">$FOMO contract address</h4>
-              <p class="mt-1 text-gray-500 dark:text-gray-400">0x93b2186ADbc3f3ea85EA4c6AC0FB5017975A7c07</p>
+              <p class="mt-1 text-gray-500 dark:text-gray-400"><a href="https://bscscan.com/token/0x93b2186ADbc3f3ea85EA4c6AC0FB5017975A7c07">0x93b21...A7c07</a></p>
             </div>
           </div>
         </div>
