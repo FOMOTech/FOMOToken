@@ -1,10 +1,9 @@
-
 import React, { useState } from "react";
 import Container from "./container";
 
 export default function SwapSection() {
   return (
-    <Container className='p-0'>
+    <Container className='p-8 mx-auto xl:px-0 flex flex-wrap mb-20 lg:gap-10 lg:flex-nowrap '>
     <div class="flex flex-wrap items-center  lg:w-1/2" id="model">
       <div>
         <div class="flex flex-col w-full mt-4">
