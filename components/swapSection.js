@@ -8,7 +8,7 @@ export default function SwapSection() {
       <div>
         <div class="flex flex-col w-full mt-4">
           <h3 class="max-w-2xl mt-3 text-3xl font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-4xl dark:text-white">Buy $FOMO</h3>
-          <p class="max-w-2xl py-4 text-lg leading-normal text-gray-500 lg:text-xl xl:text-xl dark:text-gray-300">You will be able to buy $FOMO by exchanging it<br/>for BNB on PancakeSwap.  You can also use our <br/>swap widget to exchange other cryptocurrencies or pay in fiat.</p>
+          <p class="max-w-2xl py-4 text-lg leading-normal text-gray-500 lg:text-xl xl:text-xl dark:text-gray-300">You will be able to buy $FOMO by exchanging it<br/>for BNB on PancakeSwap.  You can also use our <br/>swap widget to exchange other cryptocurrencies <br/>or pay in fiat.</p>
         </div>
         <div class="w-full mt-5">
           <div class="flex items-start mt-8 space-x-3">
