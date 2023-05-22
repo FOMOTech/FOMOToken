@@ -18,11 +18,11 @@ export default function Hero() {
 
             <div className="flex flex-col items-start space-x-3 space-y-3 sm:space-y-0 sm:items-center sm:flex-row">
               <a
-                href="https://ucarecdn.com/6c066857-a536-4efc-a52c-84886fc69613/"
+                href="https://www.pinksale.finance/launchpad/0x410EE7356E3DD711df347999aA7912026b4BeeBA"
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
-                Whitepaper
+                PinkSale
               </a>
             </div>
           </div>
