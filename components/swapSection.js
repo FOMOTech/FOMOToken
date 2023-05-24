@@ -48,6 +48,7 @@ export default function SwapSection() {
       </div>
     </div>
     <div class="flex grow justify-center pl-0 pt-8 md:pt-0 pr-0" id="model">
+        <a name="BuyNow"></a>
         <iframe width="100%" height="720" frameborder="0" allow="clipboard-read *; clipboard-write *; web-share *; accelerometer *; autoplay *; camera *; gyroscope *; payment *; geolocation *" src="https://flooz.xyz/embed/trade?swapDisabled=false&swapToTokenAddress=0x93b2186ADbc3f3ea85EA4c6AC0FB5017975A7c07&swapLockToToken=false&onRampDisabled=false&onRampAsDefault=false&onRampDefaultAmount=200&onRampTokenAddress=0x93b2186ADbc3f3ea85EA4c6AC0FB5017975A7c07&onRampLockToken=false&stakeDisabled=true&network=bsc&lightMode=true&primaryColor=%23052cc8&backgroundColor=transparent&roundedCorners=0&padding=0&refId=hLymmL" ></iframe>
     </div>
     
